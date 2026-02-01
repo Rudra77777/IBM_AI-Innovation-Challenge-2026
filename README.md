@@ -10,6 +10,9 @@ This project introduces an **AI-powered infrastructure management system** that 
 
 Unlike conventional systems, this solution is designed to **learn continuously**, evolve with real-world data, and enforce accountability automatically.
 
+Live deployed link - https://0-to-1.vercel.app/
+NOTE - The above link may not perform some operations as n8n backend has to be runned locally. Hence you can refer the demo video below explaining the full working.
+Demo video link - https://drive.google.com/file/d/1JEdTDOx1mH8c3U_RGTiQmrWT3arAfVT5/view?usp=drivesdk
 ---
 
 ## 🎯 Problem Statement
